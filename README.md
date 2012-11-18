@@ -1,4 +1,4 @@
 Invigilator
 ===========
 
-Windows service that monitors a computer's usage
+Console application that monitors a computer's usage
